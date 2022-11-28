@@ -10,3 +10,10 @@
 23	git commit -m "Paso 23"
 24	git checkout Master 
 25					fusión por fast-forward
+26	git add bitacora.txt
+26	git commit -m "Paso 26"
+27 	git tag ResultadosPreguntaFusion
+28 	git push origin master		Habia un cambio en el repositorio remoto desde el
+					ultimo pull así que he hecho un pull y he vuelto a 
+					hacer el push
+
