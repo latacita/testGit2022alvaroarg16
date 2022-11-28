@@ -1,8 +1,15 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Alcántara Ruiz de Garibay, Álvaro):                      %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+07	git add bitacora.txt
+08	git commit -m "Paso 08"
+09 	git checkout Historia001
+13	git add bitacora.txt
+14	git commit -m "Paso 08"
+15 	git checkout Historia001
+16	git stash pop
