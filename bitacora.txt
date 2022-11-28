@@ -18,6 +18,12 @@
 14	git commit -m "Paso 08"
 15 	git checkout Historia001
 16	git stash pop
+19 	git commit -m "Paso 19"
+20 	git merge Historia000		Fusión por recursión, ya que las ramas divergen
+20	resolver conflictos		de commits diferentes
+20	git commit -m "Paso 19"
+20	git merge Historia000
+	
 
 
 
