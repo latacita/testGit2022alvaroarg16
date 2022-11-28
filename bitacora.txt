@@ -34,4 +34,10 @@
 					ultimo pull así que he hecho un pull y he vuelto a 
 					hacer el push
 					
-31					Fusión por recursión
+31					Fusión por recursión que genera conflictos
+30 	git add bitacora.txt
+30	git commit -m "Paso 30"
+31 	git merge Historia001
+31 	reolver conflictos
+31	git add bitacora.txt
+31	git commit -m "Paso 30"
